@@ -107,6 +107,7 @@
 		<key>10.13-17A365</key>
 		<array>
 			<string>iTunes</string>
+			<string>HiCSupplemental</string>
 		</array>
 	</dict>
 	<key>PublicationDate</key>
@@ -211,6 +212,17 @@
 			<integer>268903616</integer>
 			<key>url</key>
 			<string>https://secure-appldnld.apple.com/itunes12/031-97711-20170912-AA2DAD20-71C8-4326-9AE8-F56B9F1DF169/iTunes12.7.dmg</string>
+		</dict>
+		<key>HiCSupplemental</key>
+		<dict>
+			<key>name/key>
+			<string>macOS High Sierra 10.13 Supplemental Update</string>
+			<key>sha1</key>
+			<string>7ac2c6cd19dfcedc454bf0c7504b7429fd8a489b</string>
+			<key>size</key>
+			<integer>923432128</integer>
+			<key>url</key>
+			<string>http://support.apple.com/downloads/DL1937/en_US/macOSUpd10.13Supplemental.dmg</string>
 		</dict>
 	</dict>
 </dict>
