@@ -215,7 +215,7 @@
 		</dict>
 		<key>HiCSupplemental</key>
 		<dict>
-			<key>name/key>
+			<key>name</key>
 			<string>macOS High Sierra 10.13 Supplemental Update</string>
 			<key>sha1</key>
 			<string>7ac2c6cd19dfcedc454bf0c7504b7429fd8a489b</string>
